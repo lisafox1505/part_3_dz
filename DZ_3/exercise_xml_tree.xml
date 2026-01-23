@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<user_profile>
+    <username>super_coder</username>
+    <level>10</level>
+    <languages>
+        <item>Python</item>
+        <item>English</item>
+    </languages>
+    <is_active>True</is_active>
+</user_profile>

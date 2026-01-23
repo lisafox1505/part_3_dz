@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<people>
+  <person id="1">
+    <name>Kira</name>
+    <surname>Kuprienko</surname>
+    <birthday>1/01/1999</birthday>
+    <city>Odessa</city>
+  </person>
+  <person id="2">
+    <name>Misha</name>
+    <surname>Kuprienko</surname>
+    <birthday>5/15/1996</birthday>
+    <city>Odessa</city>
+  </person>
+</people>

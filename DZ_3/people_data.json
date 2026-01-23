@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Kira",
+        "surname": "Kuprienko",
+        "birthday": "1/01/1999",
+        "city": "Odessa"
+    },
+    {
+        "name": "Misha",
+        "surname": "Kuprienko",
+        "birthday": "5/15/1996",
+        "city": "Odessa"
+    }
+]
